@@ -8,7 +8,7 @@
 4. autenticación multifactor (MFA)
 5. Application performance management (APM)
 6. Service Level Agreement (Acuerdo de nivel de servicio o Garantía de nivel de servicio) (SLA)
-7. 
+7. Coste total de propiedad (TCO)
 -----------------------------------------------------------
                   ORGANIZACIONES
 
