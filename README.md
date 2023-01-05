@@ -14,3 +14,7 @@
 -----------------------------------------------------------
                      REVISTAS
 1.  https://www.welivesecurity.com/la-es/ 
+
+-----------------------------------------------------------
+                  RECURSOS DE OTRA INDOLE
+1. https://principlesofchaos.org/ 
