@@ -9,6 +9,8 @@
 5. Application performance management (APM)
 6. Service Level Agreement (Acuerdo de nivel de servicio o Garantía de nivel de servicio) (SLA)
 7. Coste total de propiedad (TCO)
+8. Estructura de jerarquizacion de fuentes de riesgos (RVS)
+9. 
 -----------------------------------------------------------
                   ORGANIZACIONES
 
@@ -24,7 +26,11 @@
 4. Information Systems Audit and Control Association (ISACA)
   LINK: https://www.isaca.org/resources/cobit
   
-5.    
+5. ORACLE
+  Link: https://www.oracle.com/pe/industries/hospitality/hospitality-mobile-contactless-maturity-report-2021/
+
+6. Cloud Standards Customer Council (CSCC)
+  Link: https://www.cloud-council.org/
 -----------------------------------------------------------
                      REVISTAS
 1. ESEAT Noticias de ciberseguridad
