@@ -6,6 +6,7 @@
 2. Protocolo de escritorio remoto (RDP)
 3. redes privadas virtuales (VPN)
 4. autenticación multifactor (MFA)
+5. Application performance management (APM)
 -----------------------------------------------------------
                   ORGANIZACIONES
 
