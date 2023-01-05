@@ -24,7 +24,7 @@
 4. Information Systems Audit and Control Association (ISACA)
   LINK: https://www.isaca.org/resources/cobit
   
-5.   
+5.    
 -----------------------------------------------------------
                      REVISTAS
 1. ESEAT Noticias de ciberseguridad
