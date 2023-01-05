@@ -13,7 +13,8 @@
   LINK: https://www.fema.gov/es
 -----------------------------------------------------------
                      REVISTAS
-1.  https://www.welivesecurity.com/la-es/ 
+1. ESEAT Noticias de ciberseguridad
+ LINK: https://www.welivesecurity.com/la-es/ 
 
 -----------------------------------------------------------
                   RECURSOS DE OTRA INDOLE
