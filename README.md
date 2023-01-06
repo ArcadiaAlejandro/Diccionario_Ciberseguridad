@@ -10,7 +10,12 @@
 6. Service Level Agreement (Acuerdo de nivel de servicio o Garantía de nivel de servicio) (SLA)
 7. Coste total de propiedad (TCO)
 8. Estructura de jerarquizacion de fuentes de riesgos (RVS)
-9. 
+9. (TPRM)
+10. (MOU)
+11. (BPA)
+12. (NDA)
+13. Analisis de sistemas de medicion (MSA)
+14. Modelo de Proteccion de infraestructuras criticas (PIC)
 -----------------------------------------------------------
                   ORGANIZACIONES
 
@@ -39,3 +44,9 @@
 -----------------------------------------------------------
                   RECURSOS DE OTRA INDOLE
 1. https://principlesofchaos.org/ 
+
+-------------------------------------------------------------
+PROTOCOLOS
+
+1. SSH 
+2. 
